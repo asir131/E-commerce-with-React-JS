@@ -1,0 +1,32 @@
+.product{
+    display:flex;
+    border-bottom: 1px solid gray;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
+.productImg{
+    margin-right: 20px;
+}
+.productName{
+    margin-left: 20px;
+    color: gray;
+    font-weight: 400;
+}
+
+.productName p{
+    font-size: 20px;
+    color: teal;
+}
+.btn{
+    
+    background-color: teal;
+    width: 150px;
+    height: 30px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    
+}
+.btn:hover{
+    background-color: darkslategray;
+}
